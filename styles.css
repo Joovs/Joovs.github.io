@@ -14,6 +14,7 @@
 
 .footerJ{
     height: 150px;
+    margin-top: 500px;
 }
 
 
@@ -24,6 +25,32 @@
 
 .recom{
     display: flex;
+}
+
+.recom div{
     align-items: center;
     justify-content: center;
+    
 }
+
+.recom div img{
+    height: 15%;
+}
+
+.todos{
+    display: flex;
+
+}
+
+
+.map{
+    display: flex;
+}
+
+.map iframe{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+
+}
+
