@@ -1,3 +1,29 @@
 .logo{
-    width: 15px;
+    width: 5%;
+}
+
+
+#abuelos{
+    height: 300px;
+}
+
+.imgAbus{
+    align-content: center;
+}
+
+
+.footerJ{
+    height: 150px;
+}
+
+
+.imgFoot{
+    height: 40px;
+}
+
+
+.recom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
